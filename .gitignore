@@ -1,0 +1,29 @@
+# Diretórios
+
+node_modules/
+build/
+coverage/
+dist/
+tmp/
+logs/
+
+# Arquivos
+
+.env
+.env.production
+.env.development
+package-lock.json
+yarn.lock
+npm-debug.log
+
+# Outros
+
+*.png
+*.jpg
+*.svg
+*.cache
+*.tmp
+*.min.js
+*.min.css
+*.spec.js
+*.test.js
