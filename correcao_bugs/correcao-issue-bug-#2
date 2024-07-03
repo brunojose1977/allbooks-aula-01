@@ -1,0 +1,21 @@
+Bug Report
+
+name: Relatar Problema
+about: O título da Home está desformatado
+
+Descreva o problema:
+O problema ocorre assim que a página principal é carregada
+
+Passos para Reproduzir:
+1 - acessar a url do site
+2 - visualizar o erro
+
+Comportamento Esperado:
+O Título deveria está centralizado
+
+Capturas de Tela:
+Adiciomnei uma imagem de evidência
+Bruno José e Silva - Curso DevOps_ trabalhando com tráfego seguro em comunicações web - Alura.pdf
+
+Contexto Adicional:
+Escreva qualquer contexto adicional sobre o problema aqui.
