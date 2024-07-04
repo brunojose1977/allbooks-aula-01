@@ -18,7 +18,8 @@ $ npm run start-auth
 Você pode fazer isso efetuando uma requisição post para:
 
 ```
-POST http://localhost:8000/public/registrar
+#POST http://localhost:8000/public/registrar
+POST http://localhost:8000/public/cadastrar
 ```
 
 Com os seguintes dados:
