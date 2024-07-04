@@ -1,0 +1,1 @@
+Feature de atualização automática de logos nas páginas do site.
